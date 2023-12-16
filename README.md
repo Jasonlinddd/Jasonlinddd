@@ -1,12 +1,11 @@
 ### Hi there 👋
 - 🔭 科系:
 - 統計資訊學系
-- 🌱 身分
+- 🌱 身分:
 - 學生
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 班級:
+- 統資一甲
+- 🤔 學號:
+- 412421226
+- 💬 興趣:
+- 打排球
